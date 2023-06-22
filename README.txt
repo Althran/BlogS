@@ -1,0 +1,1 @@
+Implementation of the blog as part of the training, the database is not loaded.
